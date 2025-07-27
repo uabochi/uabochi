@@ -52,6 +52,9 @@ Here are a few things that shaped my journey so far:
 - 🌐 **3MTT Program** (2024 Cohort)  
   Gained deeper exposure to Nigeria's growing tech ecosystem and worked with peers to explore scalable solutions.
 
+- 🌍 **Aspire Leaders Program – 2024 Cohort**  
+  Participated in a global academic and leadership program supported by Harvard faculty, focused on critical thinking, leadership, and impact.
+
 - 🏫 Teaching Experience  
   I taught Mathematics and Science, sharpening my communication skills and learning to explain complex topics in simpler ways.
 
