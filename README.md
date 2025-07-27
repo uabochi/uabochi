@@ -4,10 +4,6 @@
 
 ---
 
-![Profile Views](https://hits.sh/github.com/uabochi.svg?style=for-the-badge)
-
----
-
 Welcome to my GitHub space. I'm someone who enjoys learning new things, building real-world solutions, and making sense of how systems work under the hood. My focus lies in crafting simple, effective applications — from web to mobile — and constantly improving with every project I touch. Whether it's through internships, personal builds, or technical programs, I work to turn ideas into working software that solves real problems.
 
 ---
