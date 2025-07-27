@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uchechukwu Abochi
 
-*Tech Enthusiast | Software Developer | Mobile App Builder*
+*Tech Enthusiast | Software Developer*
 
 ---
 
